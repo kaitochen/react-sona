@@ -1,6 +1,6 @@
-####基于react框架的移动端单页应用项目
+基于react框架的移动端单页应用项目
 
-######项目由create-react-app的脚手架去生成
+项目由create-react-app的脚手架去生成
 
 ```
 npm install //进行modules安装
