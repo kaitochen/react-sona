@@ -1,0 +1,20 @@
+.page{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../assets/initPage.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+.btn{
+    width: 50%;
+    height: 40px;
+    background-color: #ff4e56;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 100px;
+    left: 25%;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    line-height: 40px;
+}
